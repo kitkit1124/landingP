@@ -71,26 +71,6 @@
   </div>
 </footer>
 
-<!-- <div class="cta-footer">
-  <a
-    href="https://api.whatsapp.com/send?phone=+6587953913 &amp;text="
-    target="_blank"
-  >
-    <i class="fab fa-whatsapp"></i>
-    Whatsapp Us
-  </a>
-
-  <a href="tel:+6587953913">
-    <i class="fas fa-phone-alt"></i>
-    Call Us
-  </a>
-
-  <a href="#enquire" class="enquire-btn">
-    <i class="far fa-envelope"></i>
-    Get a Quote
-  </a>
-</div> -->
- 
 	<?php wp_footer(); ?>
   </body>
 </html>

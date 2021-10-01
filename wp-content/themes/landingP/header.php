@@ -20,29 +20,14 @@
             <img src="<?php bloginfo('template_directory'); ?>/assets/images/logo.png" class="default-logo" />
             <img src="<?php bloginfo('template_directory'); ?>/assets/images/logo-scrolled.png" class="logo-scrolled" />
         </a>
-
-        <!-- <button class="navbar-toggler second-button" type="button" data-toggle="collapse" data-target="#navbarSupportedContent24"
-            aria-controls="navbarSupportedContent24" aria-expanded="false" aria-label="Toggle navigation">
-            <div class="animated-icon2"><span></span><span></span><span></span><span></span></div>
-        </button> -->
-
         <div class="cta-header">
-        <a href="#enquire">
-            <i class="far fa-envelope-open"></i>
-            <span>Enquire Now </span>
-        </a>
-
-        <a href="tel:+65624180909">
-            <i class="fas fa-phone-alt"></i>
-        </a>
-
-        <!-- <a href="https://wa.me/6591815503" target="_blank">
-            <i class="fab fa-whatsapp"></i>
-        </a> -->
-
-        <!-- <a href="https://wa.me/6597932700" target="_blank">
-            <i class="fab fa-whatsapp"></i>
-        </a> -->
+            <a href="#enquire">
+                <i class="far fa-envelope-open"></i>
+                <span>Enquire Now </span>
+            </a>
+            <a href="tel:+65624180909">
+                <i class="fas fa-phone-alt"></i>
+            </a>
         </div>
     </div>
     </nav>

@@ -1,0 +1,160 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+body {
+  color: #111;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  word-wrap: break-word !important; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+  color: #111;
+  font-weight: 700;
+  word-wrap: break-word;
+  font-family: "Poppins", sans-serif; }
+  h1 a,
+  h2 a,
+  h3 a,
+  h4 a,
+  h5 a,
+  h6 a {
+    color: inherit; }
+
+p {
+  margin-bottom: 0 !important;
+  margin-top: 0 !important;
+  line-height: 1.9;
+  word-wrap: break-word;
+  font-weight: 400; }
+
+p small {
+  font-size: 14px; }
+
+ul,
+ol {
+  margin: 0; }
+
+b,
+strong {
+  font-weight: 700; }
+
+.aligncenter {
+  clear: both;
+  display: block;
+  margin: 0 auto; }
+
+.alignright {
+  display: inline;
+  float: right;
+  margin: 0 0 0 15px; }
+
+.alignleft {
+  display: inline;
+  float: left;
+  margin: 0 15px 0 0; }
+
+h1 {
+  font-size: 70px; }
+
+h2 {
+  font-size: 40px; }
+
+h3 {
+  font-size: 35px; }
+
+h4 {
+  font-size: 30px; }
+
+h5 {
+  font-size: 25px; }
+
+h6 {
+  font-size: 18px; }
+
+p,
+li {
+  font-size: 15px; }
+
+a {
+  color: #111;
+  word-wrap: break-word; }
+
+strong {
+  font-weight: 900;
+  color: #111; }
+
+em {
+  opacity: 0.8; }
+
+a:hover,
+a:focus {
+  color: inherit;
+  text-decoration: none !important; }
+
+.bold-black {
+  font-weight: normal; }
+
+h2 {
+  margin-bottom: 20px; }
+
+input {
+  width: 100%;
+  border: 1px solid #ddd;
+  height: 60px;
+  padding-left: 27px;
+  padding-right: 27px;
+  background-color: #fff;
+  border-radius: 7px; }
+
+textarea {
+  width: 100%;
+  background-color: #fff;
+  height: 9rem;
+  padding-left: 27px;
+  padding-right: 27px;
+  padding-top: 17px;
+  border: 1px solid #ddd;
+  border-radius: 7px; }
+
+@media screen and (max-width: 1600px) {
+  h1 {
+    font-size: 4px; }
+  h2 {
+    font-size: 30px;
+    margin-bottom: 10px; }
+  h3 {
+    font-size: 28px; }
+  h4 {
+    font-size: 25px; }
+  h5 {
+    font-size: 20px; }
+  h6 {
+    font-size: 18px; }
+  button.button-lg-round {
+    font-size: 18px;
+    padding: 15px 30px; } }
+
+@media screen and (max-width: 767px) {
+  h1 {
+    font-size: 35px; }
+  h2 {
+    font-size: 30px; }
+  h3 {
+    font-size: 25px; }
+  h4 {
+    font-size: 21px; }
+  h5 {
+    font-size: 19px; }
+  h6 {
+    font-size: 17px; }
+  p {
+    font-size: 15px; }
+  li {
+    font-size: 15px; }
+  button.button-lg-round {
+    font-size: 16px; } }

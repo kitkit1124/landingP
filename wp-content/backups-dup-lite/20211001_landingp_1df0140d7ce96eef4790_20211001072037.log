@@ -1,0 +1,84 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: October 1, 2021 7:20 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.4.3
+WORDPRESS:	5.8.1
+PHP INFO:	7.4.1 | SAPI: apache2handler
+SERVER:		Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.1 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (-1 default) 
+MEMORY STACK: 8MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20211001_landingp_1df0140d7ce96eef4790_20211001072037_database.sql
+SQL FILE SIZE: 1.42MB (1490143)
+SQL FILE TIME: 2021-10-01 07:20:53
+SQL RUNTIME: 4.37 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/landingP
+ARCHIVE FILE: 20211001_landingp_1df0140d7ce96eef4790_20211001072037_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	78.02MB
+STATS:	Dirs 444 | Files 3,550
+SQL ADDED: 20211001_landingp_1df0140d7ce96eef4790_20211001072037_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3994
+    [filename] => C:\xampp\htdocs\landingP\wp-content\backups-dup-lite\tmp\20211001_landingp_1df0140d7ce96eef4790_20211001072037_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 3993
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 32.73MB
+ARCHIVE RUNTIME: 60.07 sec.
+MEMORY STACK: 8MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/xampp/htdocs/landingP/wp-content/backups-dup-lite/tmp/20211001_landingp_1df0140d7ce96eef4790_20211001072037_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 1.42MB
+INSTALLER FILE: 64.26KB
+ARCHIVE FILE: 33.71MB 
+EXPECTED FILE/DIRECTORY COUNT: 3,994
+ACTUAL FILE/DIRECTORY COUNT: 3,993
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 66.09 sec.
+PEAK PHP MEMORY USED: 10MB
+DONE PROCESSING => 20211001_landingp October 1, 2021 7:21 am
+

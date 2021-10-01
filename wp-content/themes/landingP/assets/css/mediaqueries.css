@@ -1,0 +1,223 @@
+@media screen and (max-width: 1600px) {
+  .navbar .navbar-brand img {
+    width: auto; }
+  .navbar .cta-header a {
+    font-size: 14px; }
+  h1 {
+    font-size: 40px; }
+  .enquire .form-container {
+    padding: 5rem 2rem; } }
+
+@media screen and (max-width: 1500px) {
+  .top-banner {
+    height: 42rem; }
+  .enquire input.submit-btn {
+    padding: 24px 37px;
+    margin-right: 0; }
+  .services .services-box {
+    padding: 3rem 5rem; }
+  .enquire .form-container .section-title .enquire-cta a {
+    font-weight: bold;
+    font-size: 12px; } }
+
+@media screen and (max-width: 1400px) {
+  .courses {
+    padding: 4rem 0; }
+  .enquire .form-container {
+    right: -55%; }
+  .choose-us .choose-center-img img {
+    width: 334px; } }
+
+@media screen and (max-width: 1300px) {
+  .navbar .cta-header a i {
+    font-size: 21px;
+    padding-right: 0; }
+  .top-banner .container-fluid .banner-caption .banner-btn .custom-btn {
+    padding: 17px 34px;
+    margin-right: 20px; }
+  .projects .owl-theme .owl-nav .owl-prev {
+    left: 0; }
+  .projects .owl-theme .owl-nav .owl-next {
+    right: 0; } }
+
+@media screen and (max-width: 1250px) {
+  .navbar {
+    padding: 20px 10px; }
+    .navbar .container-fluid {
+      -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+      justify-content: space-between; }
+  .cta-footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background-color: #009bc4;
+    text-align: center;
+    padding: 13px 10px;
+    z-index: 9999; }
+    .cta-footer a {
+      -webkit-box-flex: 0;
+      -ms-flex: 0 0 33.33333%;
+      flex: 0 0 33.33333%;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: center;
+      -ms-flex-pack: center;
+      justify-content: center;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      color: #fff !important;
+      font-size: 12px; }
+      .cta-footer a i {
+        color: #fff;
+        font-size: 23px; }
+  .testimonials .container-fluid .row .col-lg-4 .testi-title {
+    padding: 6rem 2rem; }
+  .navbar .cta-header a span {
+    display: none; }
+  .bottom-banner .bottom-banner-holder {
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap; }
+  .bottom-banner .bottom-banner-holder .bottom-banner-box {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%; } }
+
+@media screen and (max-width: 1000px) {
+  .enquire .form-container {
+    padding: 3rem 2rem;
+    background: #fff;
+    position: relative;
+    top: unset;
+    right: unset;
+    -webkit-transform: translateY(0%);
+    transform: translateY(0%);
+    z-index: 9999; }
+  .testimonials {
+    padding-bottom: 0 !important; }
+  .enquire input.submit-btn {
+    padding: 23px 90px;
+    margin-right: auto; } }
+
+@media screen and (min-width: 1250px) {
+  .cta-header a:nth-of-type(1) i {
+    display: none;
+    padding-right: 10px; } }
+
+@media screen and (max-width: 992px) {
+  .sections {
+    padding: 3rem 0; }
+  .top-banner .col-xl-6 {
+    padding: 0; }
+  .enquire {
+    padding-bottom: 0;
+    padding-top: 0; }
+    .enquire .form-container {
+      padding: 3rem 2rem; }
+    .enquire iframe {
+      height: 400px;
+      margin-bottom: 0; }
+  .top-banner .container-fluid .banner-caption {
+    width: 100%; }
+  .navbar .navbar-brand img {
+    width: 97px; }
+  .accordion .panel-group div.panel-default:nth-last-of-type(1) {
+    margin-bottom: 1.5rem; }
+  footer .row > div {
+    margin-bottom: 2rem; }
+  .testimonials .container-fluid .row .col-lg-4 .testi-title {
+    padding: 4rem 2rem;
+    text-align: center; }
+  .thanks-banner img {
+    width: 162px;
+    margin-bottom: 23px; }
+  .top-banner .container-fluid .banner-caption > p {
+    font-size: 16px; }
+  .choose-us .choose-center-img img {
+    margin: 2rem 0; }
+  .enquire form {
+    margin-top: 2rem;
+    width: 100%; }
+  .enquire .form-container {
+    padding: 3rem 2rem;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start; }
+  .event .event-box img.arrow {
+    display: none; } }
+
+@media (max-width: 767px) {
+  .navbar .navbar-brand img {
+    width: 66px; }
+  .sections {
+    padding: 2rem 0; }
+  .enquire .cta-form .cta-box {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: baseline;
+    -ms-flex-align: baseline;
+    align-items: baseline; }
+  h1 {
+    font-size: 35px; }
+  .top-banner .container-fluid .banner-caption {
+    padding: 0 15px 0 30px; }
+  .sections .section-title {
+    margin-bottom: 1rem; }
+  .faq table td {
+    font-size: 14px; }
+  .enquire .submit-box {
+    margin-top: 1rem;
+    text-align: center; }
+  .enquire input.submit-btn {
+    padding: 14px 66px;
+    font-size: 16px;
+    height: auto;
+    margin-top: 1.5rem; }
+  .navbar .cta-header a {
+    padding: 9px 12px;
+    margin-left: 7px; }
+  .navbar .cta-header a i {
+    font-size: 21px;
+    padding-right: 0; }
+  .navbar .cta-header a:nth-of-type(2) i {
+    font-size: 19px; }
+  .navbar .navbar-brand {
+    padding: 0;
+    padding-left: 0; }
+  .benefits .benefits-container {
+    margin-top: -4rem; }
+  .testimonials .container-fluid .row .testi-bg {
+    padding: 3rem 2rem; }
+  footer .col-lg-5 .footer-flex h6 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 20%;
+    flex: 0 0 35%; }
+  .navbar.show .navbar-brand img {
+    width: 63px; }
+  .bottom-banner .bottom-banner-holder .bottom-banner-box {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%; }
+  .services .services-box {
+    padding: 3rem 15px; }
+  .client .owl-theme .owl-dots .owl-dot span {
+    width: 29px; } }
+
+@media (max-width: 360px) {
+  .testimonials .carousel-box .stars img {
+    margin: 0 6px; } }
